@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 
-Step 1: Import required libraries numpy and scipy.linalg.
+**Step 1: Import required libraries numpy and scipy.linalg.
 
 
 Step 2: Input the matrix/matrices using eval(input()). 
@@ -18,7 +18,7 @@ Step 2: Input the matrix/matrices using eval(input()).
 Step 3: Perform LU decomposition using lu() or solve equations using lu_factor() and lu_solve(). 
 
 
-Step 4: Print the results L and U matrices or solution X matrix.
+Step 4: Print the results L and U matrices or solution X matrix.**
 
 
 
